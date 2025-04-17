@@ -98,4 +98,5 @@ void output(){
         cout << arr[i] << " ";
     }
     cout << endl;
+}
 
