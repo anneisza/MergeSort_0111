@@ -103,6 +103,6 @@ void output(){
 int main()
 {
     input();
-    mergeSort();
+    mergeSort(0, n-1);
     output();
 }
