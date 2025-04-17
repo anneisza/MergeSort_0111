@@ -100,3 +100,9 @@ void output(){
     cout << endl;
 }
 
+int main()
+{
+    input();
+    mergeSort();
+    output();
+}
